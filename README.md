@@ -7,7 +7,7 @@
 ---
 
 ### 💻 Tech Stack
-* **Languages:** Java 17+, SQL, JavaScript
+* **Languages:** Java, SQL, JavaScript
 * **Frameworks:** Spring Boot, Spring Security, Spring Data JPA
 * **Databases:** PostgreSQL, MySQL
 * **Tools & Services:** Git, GitHub (Projects, Actions), Postman, VNPay API, Gemini AI Integration
@@ -25,4 +25,4 @@
 
 ### 📫 Reach Out to Me
 * 📧 Email: quanghuy.le.dev@gmail.com
-* 💼 LinkedIn: [in/huy-le-java](https://linkedin.com/in/huy-le-java)
+* 💼 LinkedIn: [in/huy-le-java]([https://linkedin.com/in/huy-le-java](https://www.linkedin.com/in/huy-le-java/))
