@@ -25,4 +25,4 @@
 
 ### 📫 Reach Out to Me
 * 📧 Email: quanghuy.le.dev@gmail.com
-* 💼 LinkedIn: [[in/huy-le-java](https://linkedin.com/in/huy-le-java)](https://www.linkedin.com/in/huy-le-java/)
+* 💼 LinkedIn: in/huy-le-java[(https://linkedin.com/in/huy-le-java)](https://www.linkedin.com/in/huy-le-java/)
