@@ -7,7 +7,7 @@
 ---
 
 ### 💻 Tech Stack
-* **Languages:** Java 17+, SQL, JavaScript
+* **Languages:** Java, SQL, JavaScript
 * **Frameworks:** Spring Boot, Spring Security, Spring Data JPA
 * **Databases:** PostgreSQL, MySQL
 * **Tools & Services:** Git, GitHub (Projects, Actions), Postman, VNPay API, Gemini AI Integration
