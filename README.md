@@ -1,28 +1,30 @@
-<div align="center">
-  <h2>Hi there, I'm Le Quang Huy 👋</h2>
-  <p><b>Java Backend Developer | Software Engineering Student at FPT Polytechnic</b></p>
-  <p>Passionate about building scalable web applications, robust APIs, and gamified systems.</p>
-</div>
+# 🏋️‍♂️ FitLife - Smart Gym Ecosystem
 
----
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Architecture: Microservices](https://img.shields.io/badge/Architecture-Decoupled-blue.svg)]()
+[![Status: Active](https://img.shields.io/badge/Status-Active-success.svg)]()
 
-### 💻 Tech Stack
-* **Languages:** Java, SQL, JavaScript
-* **Frameworks:** Spring Boot, Spring Security, Spring Data JPA
-* **Databases:** PostgreSQL, MySQL
-* **Tools & Services:** Git, GitHub (Projects, Actions), Postman, VNPay API, Gemini AI Integration
+> A Next-Generation Gym Management System powered by AI (Google Gemini), automated secure payments (VNPay), and high-performance operations.
 
-### 🚀 Highlighted Project
-**[FitLife Gym Ecosystem](https://github.com/FitLife-Gym-Ecosystem/fitlife-backend)**
-* A next-generation, gamified gym & health management system.
-* **My Role:** Team Leader & Lead Backend Developer.
-* **Key Contributions:** Architected the core API using a 4-layer structure, integrated VNPay for transactions, automated gym package lifecycles, and utilized GitHub Projects for Agile management.
+## 🌟 The Vision & Business Value
+FitLife transforms traditional gym operations into an automated, highly personalized ecosystem. By leveraging AI for hybrid workout/nutrition plans and ensuring lightning-fast check-ins via Redis Cache, it directly solves real-world peak-hour bottlenecks and enhances member retention.
 
-### 🌱 Currently Working On
-* Completing my Graduation Project (Expected Aug 2026).
-* Deepening knowledge in Cloud architectures and System Design.
-* Seeking a **Fresher Java Backend Developer** position.
+## 🏗️ System Architecture
 
-### 📫 Reach Out to Me
-* 📧 Email: quanghuy.le.dev@gmail.com
-* 💼 LinkedIn: [in/huy-le-java](https://linkedin.com/in/huy-le-java).
+*Note: Replace this placeholder with a diagram showing React -> Spring Boot -> MySQL/Redis & Gemini/VNPay APIs.*
+
+## 📦 Project Repositories
+This ecosystem is decoupled into dedicated repositories for scalability and clean code maintenance:
+
+| Component | Tech Stack | Repository Link |
+| :--- | :--- | :--- |
+| **Backend Core** | Spring Boot 3, Java 17, MySQL 8, Redis, Security | [FitLife-Backend](#) |
+| **Frontend Web** | ReactJS (Vite), TailwindCSS, Zustand | [FitLife-Frontend](#) |
+
+## 🚀 Live Demo & Documentation
+- **Web Application:** `[Link Vercel/FE Live Demo]`
+- **API Swagger UI:** `[[Link Render/BE/swagger-ui.html](http://localhost:8080/api/v1/swagger-ui/index.html)]`
+
+## 👨‍💻 Developed By
+- **Le Quang Huy** - Fullstack / Backend Developer
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/huy-le-java/)
