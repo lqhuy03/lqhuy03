@@ -1,4 +1,3 @@
-<img width="1690" height="1049" alt="system_architecture" src="" />
 # 🏋️‍♂️ FitLife - Smart Gym Ecosystem
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -12,7 +11,7 @@ FitLife transforms traditional gym operations into an automated, highly personal
 
 ## 🏗️ System Architecture
 
-(https://github.com/user-attachments/assets/313116a7-3c16-4ca8-b089-2268ac820f1f)
+<img width="1690" height="1049" alt="system_architecture" src="https://github.com/user-attachments/assets/313116a7-3c16-4ca8-b089-2268ac820f1f" />
 
 ## 📦 Project Repositories
 This ecosystem is decoupled into dedicated repositories for scalability and clean code maintenance:
