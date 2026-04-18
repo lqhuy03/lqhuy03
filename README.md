@@ -2,9 +2,9 @@
 
 ### 🎯 Java Backend Developer
 
-I am a software development student specializing in the Spring Boot ecosystem, currently driving a disciplined 90-day transformation plan to elevate my technical architecture skills. I focus on building robust, high-performance APIs and scalable database systems.
+I am a final-year Software Development student specializing in the Spring Boot ecosystem. My core focus lies in building robust, high-performance APIs and architecting scalable database systems.
 
-Actively seeking a **Java Fresher / Intern** position starting this May to contribute to real-world products.
+Actively seeking a **Java Fresher / Intern** position starting this May to contribute to real-world products and translate academic foundations into enterprise-level solutions.
 
 ---
 
