@@ -1,42 +1,38 @@
-# 🏋️‍♂️ FitLife - Smart Gym Ecosystem
+# Hi there, I'm Huy! 👋
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Architecture: Microservices](https://img.shields.io/badge/Architecture-Decoupled-blue.svg)]()
-[![Status: Active](https://img.shields.io/badge/Status-Active-success.svg)]()
+### 🎯 Java Backend Developer
 
-> A Next-Generation Gym Management System powered by AI (Google Gemini), automated secure payments (VNPay), and high-performance operations.
+I am a software development student specializing in the Spring Boot ecosystem, currently driving a disciplined 90-day transformation plan to elevate my technical architecture skills. I focus on building robust, high-performance APIs and scalable database systems.
 
-## 🌟 The Vision & Business Value
-FitLife transforms traditional gym operations into an automated, highly personalized ecosystem. By leveraging AI for hybrid workout/nutrition plans and ensuring lightning-fast check-ins via Redis Cache, it directly solves real-world peak-hour bottlenecks and enhances member retention.
+Actively seeking a **Java Fresher / Intern** position starting this May to contribute to real-world products.
 
-## 🏗️ System Architecture
+---
 
-<img width="1690" height="1049" alt="system_architecture" src="https://github.com/user-attachments/assets/313116a7-3c16-4ca8-b089-2268ac820f1f" />
+### 💻 Tech Stack & Tools
+- **Core:** Java 17, Spring Boot 3, Spring Security (JWT), Hibernate/JPA.
+- **Database & Cache:** MySQL 8, Redis, Flyway.
+- **Frontend Basics:** ReactJS (Vite), TailwindCSS.
+- **Workflow & Tools:** Git, IntelliJ IDEA Ultimate, DataGrip, Postman/HTTP Client, Docker (Local Env).
+- **Productivity:** Dual-system PKM (Notion for management, Obsidian for technical docs).
 
-## 📦 Project Repositories
-This ecosystem is decoupled into dedicated repositories for scalability and clean code maintenance:
+---
 
-| Component | Tech Stack | Repository Link |
-| :--- | :--- | :--- |
-| **Backend Core** | Spring Boot 3, Java 17, MySQL 8, Redis, Security | [FitLife-Backend](https://github.com/FitLife-Gym-Ecosystem/fitlife-backend) |
-| **Frontend Web** | ReactJS (Vite), TailwindCSS, Zustand | [FitLife-Frontend](https://github.com/FitLife-Gym-Ecosystem/fitlife-frontend) |
+### 🚀 Highlight Project: FitLife - Smart Gym Ecosystem
+I am currently leading the backend development of **FitLife**, an enterprise-standard gym management system. 
 
-## 🌍 Live Demo & API Documentation
+**Key Technical Achievements in this project:**
+- Designed a secure payment flow using **VNPay** with HMAC SHA-512 checksum validation.
+- Engineered a `<100ms` Smart Check-in system leveraging **Redis** caching.
+- Integrated **Google Gemini AI** to auto-generate personalized, zero-shot JSON workout plans.
+- Strictly optimized database queries using `FetchType.LAZY` to eliminate N+1 issues.
 
-Dự án đã được triển khai thực tế (Deploy) lên nền tảng Cloud. Bạn có thể trải nghiệm trực tiếp các API của hệ thống FitLife tại đây:
+🔗 **[Explore the FitLife Organization here](https://github.com/FitLife-Gym-Ecosystem)**
 
-- 🚀 **Base API URL:** `https://api.fitlife-project.com/api/v1` *(Thay bằng link thật của bạn sau khi deploy)*
-- 📖 **Swagger UI (Interactive API Docs):** [Nhấn vào đây để xem và test API trực tiếp](https://api.fitlife-project.com/swagger-ui.html)
-- 📦 **Postman Collection / HTTP Client:** [Tải xuống file FitLife-API.json](./api-requests) *(Đường dẫn trỏ vào thư mục chứa file test .http hoặc Postman của bạn)*
+---
 
-### 🔑 Tài khoản dùng thử (Test Credentials)
-Để thuận tiện cho việc đánh giá phân quyền (Authorization) qua JWT, vui lòng sử dụng các tài khoản có sẵn dưới đây:
+### ⚡ Beyond the Code
+When I step away from the IDE, you'll likely find me executing my physical training regimen. I apply the same discipline from bodybuilding and marathon training into my code: consistency, heavy lifting (tackling hard bugs), and continuous optimization. 
 
-| Phân quyền (Role) | Email đăng nhập | Mật khẩu (Password) | Tính năng nổi bật có thể test |
-| :--- | :--- | :--- | :--- |
-| **ADMIN** | `admin@fitlife.com` | `admin123` | Quản lý gói tập, Khôi phục dữ liệu (Soft Delete) |
-| **USER** | `huy.le@fitlife.com` | `user123` | Mua gói tập, Xem lịch sử hóa đơn |
-
-## 👨‍💻 Developed By
-- **Le Quang Huy** - Fullstack / Backend Developer
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/huy-le-java/)
+📫 **Let's connect:**
+- **Email:** [quanghuy.le.dev@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/huy-le-java/]
