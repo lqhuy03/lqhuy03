@@ -21,9 +21,21 @@ This ecosystem is decoupled into dedicated repositories for scalability and clea
 | **Backend Core** | Spring Boot 3, Java 17, MySQL 8, Redis, Security | [FitLife-Backend](https://github.com/FitLife-Gym-Ecosystem/fitlife-backend) |
 | **Frontend Web** | ReactJS (Vite), TailwindCSS, Zustand | [FitLife-Frontend](https://github.com/FitLife-Gym-Ecosystem/fitlife-frontend) |
 
-## 🚀 Live Demo & Documentation
-- **Web Application:** `[Link Vercel/FE Live Demo]`
-- **API Swagger UI:** `[[Link Render/BE/swagger-ui.html](http://localhost:8080/api/v1/swagger-ui/index.html)]`
+## 🌍 Live Demo & API Documentation
+
+Dự án đã được triển khai thực tế (Deploy) lên nền tảng Cloud. Bạn có thể trải nghiệm trực tiếp các API của hệ thống FitLife tại đây:
+
+- 🚀 **Base API URL:** `https://api.fitlife-project.com/api/v1` *(Thay bằng link thật của bạn sau khi deploy)*
+- 📖 **Swagger UI (Interactive API Docs):** [Nhấn vào đây để xem và test API trực tiếp](https://api.fitlife-project.com/swagger-ui.html)
+- 📦 **Postman Collection / HTTP Client:** [Tải xuống file FitLife-API.json](./api-requests) *(Đường dẫn trỏ vào thư mục chứa file test .http hoặc Postman của bạn)*
+
+### 🔑 Tài khoản dùng thử (Test Credentials)
+Để thuận tiện cho việc đánh giá phân quyền (Authorization) qua JWT, vui lòng sử dụng các tài khoản có sẵn dưới đây:
+
+| Phân quyền (Role) | Email đăng nhập | Mật khẩu (Password) | Tính năng nổi bật có thể test |
+| :--- | :--- | :--- | :--- |
+| **ADMIN** | `admin@fitlife.com` | `admin123` | Quản lý gói tập, Khôi phục dữ liệu (Soft Delete) |
+| **USER** | `huy.le@fitlife.com` | `user123` | Mua gói tập, Xem lịch sử hóa đơn |
 
 ## 👨‍💻 Developed By
 - **Le Quang Huy** - Fullstack / Backend Developer
