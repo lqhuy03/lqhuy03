@@ -1,38 +1,41 @@
-# Hi there, I'm Huy! 👋
+# Hi there, I'm Lê Quang Huy! 👋
 
-### 🎯 Java Backend Developer
+### 👨‍💻 Java Backend Developer
 
-I am a final-year Software Development student specializing in the Spring Boot ecosystem. My core focus lies in building robust, high-performance APIs and architecting scalable database systems.
+I am a final-year Software Development student specializing in the Java & Spring Boot ecosystem, expecting to graduate in August 2026. My core focus lies in building robust, high-performance RESTful APIs, optimizing database queries, and architecting scalable backend systems.
 
-Actively seeking a **Java Fresher / Intern** position starting this May to contribute to real-world products and translate academic foundations into enterprise-level solutions.
+### 🎯 Career Objectives
+- **Short-term:** Secure a **Java Fresher / Intern** position by May 2026. I am eager to apply my foundation in Spring Boot, Agile methodologies, and clean code principles to real-world enterprise projects, delivering immediate value to the engineering team.
+- **Long-term:** Advance my academic foundation through a university bridge program (UIT) to earn a Bachelor's degree, while heavily focusing on System Architecture, Microservices, and Cloud deployments. My ultimate goal is to evolve from a Senior Backend Engineer into a **Solution Architect**, designing highly scalable, resilient, and cost-effective enterprise ecosystems.
 
 ---
 
 ### 💻 Tech Stack & Tools
-- **Core:** Java 17, Spring Boot 3, Spring Security (JWT), Hibernate/JPA.
-- **Database & Cache:** MySQL 8, Redis, Flyway.
+- **Core Frameworks:** Java 17, Spring Boot 3, Spring Security (JWT), Hibernate/JPA.
+- **Database & Cache:** MySQL 8, Redis, Flyway (Migration).
 - **Frontend Basics:** ReactJS (Vite), TailwindCSS.
-- **Workflow & Tools:** Git, IntelliJ IDEA Ultimate, DataGrip, Postman/HTTP Client, Docker (Local Env).
-- **Productivity:** Dual-system PKM (Notion for management, Obsidian for technical docs).
+- **Workflow & DevOps:** Git/GitHub, Docker (Local Environment), REST API Design.
+- **Tools:** IntelliJ IDEA Ultimate, DataGrip, Postman / IntelliJ HTTP Client.
 
 ---
 
 ### 🚀 Highlight Project: FitLife - Smart Gym Ecosystem
-I am currently leading the backend development of **FitLife**, an enterprise-standard gym management system. 
+I am currently leading the backend development of **FitLife**, an enterprise-standard gym management system decoupled into a modern architecture.
 
-**Key Technical Achievements in this project:**
-- Designed a secure payment flow using **VNPay** with HMAC SHA-512 checksum validation.
-- Engineered a `<100ms` Smart Check-in system leveraging **Redis** caching.
-- Integrated **Google Gemini AI** to auto-generate personalized, zero-shot JSON workout plans.
-- Strictly optimized database queries using `FetchType.LAZY` to eliminate N+1 issues.
+**Key Technical Achievements:**
+- 💸 Engineered a secure payment gateway using **VNPay** with HMAC SHA-512 checksum validation via IPN Webhook.
+- ⚡ Architected a `<100ms` Smart Check-in system leveraging **Redis** for high-speed state caching.
+- 🤖 Integrated **Google Gemini AI** to auto-generate personalized, zero-shot JSON-locked workout plans.
+- 🗄️ Strictly optimized database performance using `FetchType.LAZY` and MapStruct to eliminate N+1 Query issues.
 
-🔗 **[Explore the FitLife Organization here](https://github.com/FitLife-Gym-Ecosystem)**
+🔗 **[Explore the FitLife Organization & Source Code Here](https://github.com/FitLife-Gym-Ecosystem)**
 
 ---
 
-### ⚡ Beyond the Code
-When I step away from the IDE, you'll likely find me executing my physical training regimen. I apply the same discipline from bodybuilding and marathon training into my code: consistency, heavy lifting (tackling hard bugs), and continuous optimization. 
+### 📫 Let's Connect
+I am always open to discussing backend architecture, Java optimization, or software engineering opportunities.
 
-📫 **Let's connect:**
-- **Email:** [quanghuy.le.dev@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/huy-le-java/]
+- **Email:** quanghuy.le.dev@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/huy-le-java/
+- **Location:** Ho Chi Minh City, Vietnam
+---
