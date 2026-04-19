@@ -1,4 +1,4 @@
-# Hi there, I'm Lê Quang Huy! 👋
+# Hi there, I'm Le Quang Huy! 👋
 
 ### 👨‍💻 Java Backend Developer
 
