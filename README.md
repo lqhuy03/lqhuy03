@@ -38,4 +38,3 @@ I am always open to discussing backend architecture, Java optimization, or softw
 - **Email:** quanghuy.le.dev@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/huy-le-java/
 - **Location:** Ho Chi Minh City, Vietnam
----
