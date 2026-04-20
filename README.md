@@ -28,7 +28,7 @@ I am currently leading the backend development of **FitLife**, an enterprise-sta
 - 🤖 Integrated **Google Gemini AI** to auto-generate personalized, zero-shot JSON-locked workout plans.
 - 🗄️ Strictly optimized database performance using `FetchType.LAZY` and MapStruct to eliminate N+1 Query issues.
 
-🔗 **[Explore the FitLife Organization & Source Code Here](https://github.com/FitLife-Gym-Ecosystem)**
+🔗 **[Explore the FitLife Organization & Source Code Here](https://github.com/FitLife-Org)**
 
 ---
 
